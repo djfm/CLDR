@@ -1,4 +1,5 @@
 {
+	"name": "djfm/CLDR",
 	"autoload": {
 		"psr-4": {"CLDR\\": "src/"}
 	}
